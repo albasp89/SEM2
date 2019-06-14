@@ -1,0 +1,818 @@
+legajo,est_civil,tipo_residencia,sit_lab_alum,sit_lab_padres,estudios_padres
+2,Soltero,Res. Univ.,No Trabaja,Trabaja,No Posee
+13,Soltero,,Trabaja,Trabaja,Prim.completa
+14,Soltero,,Trabaja,Trabaja,Prim.completa
+15,Soltero,otra Situación,Trabaja,,
+16,Soltero,otra Situación,Trabaja,No Trabaja,Prim.completa
+17,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+21,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+22,Soltero,otra Situación,Trabaja,Trabaja,Univ. o Sup.completo
+25,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+27,Soltero,,,,
+30,Casado,otra Situación,Trabaja,Trabaja,Prim.completa
+31,Soltero,otra Situación,Trabaja,No Trabaja,No Posee
+32,Soltero,,Trabaja,Trabaja,Sec.completo
+33,Soltero,otra Situación,Trabaja,No Trabaja,Prim.completa
+35,Soltero,,No Trabaja,Trabaja,Prim.completa
+36,Soltero,Res. Univ.,No Trabaja,Trabaja,Prim.completa
+39,Soltero,otra Situación,Trabaja,Trabaja,Prim.completa
+40,Soltero,,Trabaja,,
+41,Soltero,otra Situación,Trabaja,Trabaja,Prim.completa
+42,Soltero,otra Situación,Trabaja,No Trabaja,
+43,Soltero,otra Situación,No Trabaja,No Trabaja,Prim.completa
+44,Casado,otra Situación,Trabaja,Trabaja,No Posee
+45,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+47,Divorciado,otra Situación,Trabaja,Trabaja,Sec.completo
+48,Soltero,,Trabaja,Trabaja,Prim.completa
+49,Soltero,,Trabaja,,
+50,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+51,Soltero,otra Situación,Trabaja,Trabaja,Prim.completa
+52,Soltero,otra Situación,Trabaja,Trabaja,No Posee
+53,Soltero,otra Situación,Trabaja,No Trabaja,No Posee
+54,Soltero,,No Trabaja,No Trabaja,No Posee
+55,Soltero,otra Situación,No Trabaja,Trabaja,No Posee
+56,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+57,Soltero,Res. Univ.,No Trabaja,Trabaja,Prim.completa
+59,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+60,Soltero,otra Situación,Trabaja,Trabaja,No Posee
+61,Divorciado,otra Situación,Trabaja,Trabaja,Sec.completo
+62,Soltero,Res. Univ.,Trabaja,Trabaja,Prim.completa
+63,Soltero,Res. Univ.,No Trabaja,Trabaja,Prim.completa
+64,Soltero,Res. Univ.,Trabaja,Trabaja,Prim.completa
+65,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+66,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+67,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+68,Soltero,,,,
+69,Soltero,otra Situación,Trabaja,Trabaja,Prim.completa
+70,Casado,otra Situación,Trabaja,Trabaja,Prim.completa
+71,Casado,otra Situación,Trabaja,Trabaja,Univ. o Sup.completo
+72,Soltero,otra Situación,No Trabaja,Trabaja,No Posee
+73,Soltero,otra Situación,Trabaja,,
+74,Casado,otra Situación,Trabaja,,
+75,Soltero,,Trabaja,No Trabaja,Prim.completa
+76,Soltero,otra Situación,No Trabaja,Trabaja,No Posee
+77,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+78,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+79,Soltero,,Trabaja,,
+80,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+81,Soltero,,No Trabaja,No Trabaja,Prim.completa
+82,Soltero,otra Situación,No Trabaja,No Trabaja,Prim.completa
+83,Soltero,,No Trabaja,Trabaja,Prim.completa
+84,Soltero,otra Situación,Trabaja,Trabaja,Prim.completa
+85,Casado,otra Situación,Trabaja,,
+86,Soltero,otra Situación,Trabaja,Trabaja,Prim.completa
+87,Soltero,otra Situación,Trabaja,Trabaja,Prim.completa
+88,Soltero,otra Situación,Trabaja,Trabaja,No Posee
+89,Soltero,Res. Univ.,Trabaja,Trabaja,Univ. o Sup.completo
+90,Casado,otra Situación,Trabaja,No Trabaja,Prim.completa
+91,Soltero,otra Situación,Trabaja,No Trabaja,Prim.completa
+92,Soltero,otra Situación,Trabaja,Trabaja,No Posee
+93,Soltero,Res. Univ.,No Trabaja,Trabaja,Sec.completo
+94,Soltero,Res. Univ.,No Trabaja,Trabaja,No Posee
+95,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+96,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+97,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+98,Soltero,Res. Univ.,No Trabaja,Trabaja,Prim.completa
+101,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+102,Soltero,otra Situación,No Trabaja,Trabaja,No Posee
+103,Soltero,,No Trabaja,,Prim.completa
+104,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+105,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+106,Soltero,otra Situación,Trabaja,No Trabaja,Prim.completa
+107,Casado,otra Situación,Trabaja,Trabaja,Prim.completa
+108,Soltero,otra Situación,Trabaja,No Trabaja,Sec.completo
+110,Soltero,otra Situación,No Trabaja,Trabaja,No Posee
+112,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+114,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+116,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+117,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+119,Casado,otra Situación,No Trabaja,No Trabaja,Prim.completa
+120,Casado,otra Situación,Trabaja,Trabaja,No Posee
+121,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+122,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+123,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+124,Casado,otra Situación,Trabaja,Trabaja,Prim.completa
+125,Casado,otra Situación,Trabaja,Trabaja,Prim.completa
+126,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+127,Soltero,otra Situación,No Trabaja,Trabaja,No Posee
+128,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+129,Soltero,otra Situación,No Trabaja,Trabaja,No Posee
+130,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+131,Casado,otra Situación,Trabaja,Trabaja,Sec.completo
+132,Soltero,otra Situación,Trabaja,No Trabaja,Univ. o Sup.completo
+133,Soltero,otra Situación,Trabaja,No Trabaja,Prim.completa
+134,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+135,Soltero,otra Situación,No Trabaja,No Trabaja,Sec.completo
+136,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+137,Soltero,otra Situación,No Trabaja,Trabaja,No Posee
+138,Soltero,otra Situación,No Trabaja,Trabaja,No Posee
+139,Soltero,otra Situación,Trabaja,Trabaja,Prim.completa
+140,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+141,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+142,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+146,Soltero,otra Situación,No Trabaja,No Trabaja,Univ. o Sup.completo
+147,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+148,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+149,Soltero,Res. Univ.,Trabaja,No Trabaja,Prim.completa
+150,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+151,Soltero,otra Situación,No Trabaja,No Trabaja,No Posee
+152,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+153,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+154,Soltero,otra Situación,No Trabaja,No Trabaja,No Posee
+155,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+156,Casado,otra Situación,Trabaja,Trabaja,Univ. o Sup.completo
+157,Soltero,otra Situación,No Trabaja,No Trabaja,No Posee
+158,Casado,otra Situación,Trabaja,Trabaja,Prim.completa
+160,Soltero,,Trabaja,Trabaja,No Posee
+161,Soltero,otra Situación,No Trabaja,No Trabaja,No Posee
+162,Soltero,otra Situación,Trabaja,No Trabaja,Prim.completa
+163,Soltero,otra Situación,No Trabaja,No Trabaja,Sec.completo
+164,Soltero,otra Situación,No,Busca trabajo,Sec.completo
+165,Soltero,otra Situación,No Trabaja,Trabaja,No Posee
+166,Soltero,otra Situación,Trabaja,No Trabaja,Prim.completa
+167,Casado,otra Situación,Trabaja,No Trabaja,Prim.completa
+168,Soltero,otra Situación,No Trabaja,Trabaja,No Posee
+169,Soltero,otra Situación,Trabaja,Trabaja,No Posee
+170,Soltero,otra Situación,No Trabaja,No Trabaja,Prim.completa
+171,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+172,Casado,otra Situación,Trabaja,No Trabaja,Univ. o Sup.completo
+173,Soltero,otra Situación,No Trabaja,Trabaja,No Posee
+174,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+175,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+176,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+177,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+178,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+179,Soltero,otra Situación,Trabaja,Trabaja,Univ. o Sup.completo
+180,Soltero,otra Situación,Trabaja,No Trabaja,Univ. o Sup.completo
+181,Soltero,otra Situación,Trabaja,Trabaja,Prim.completa
+182,Soltero,otra Situación,Trabaja,Trabaja,Univ. o Sup.completo
+183,Casado,otra Situación,Trabaja,No Trabaja,Prim.completa
+184,Casado,otra Situación,Trabaja,No Trabaja,Prim.completa
+185,Casado,otra Situación,Trabaja,Trabaja,No Posee
+188,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+189,Soltero,,No Trabaja,Trabaja,Prim.completa
+190,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+191,Soltero,otra Situación,No Trabaja,No Trabaja,Univ. o Sup.completo
+192,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+193,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+194,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+195,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+196,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+197,Soltero,otra Situación,Trabaja,Trabaja,Univ. o Sup.completo
+198,Soltero,otra Situación,Trabaja,,
+199,Soltero,otra Situación,,,
+200,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+201,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+202,Soltero,otra Situación,Trabaja,No Trabaja,Sec.completo
+203,Soltero,,No Trabaja,Trabaja,Prim.completa
+204,Soltero,otra Situación,Trabaja,Trabaja,Prim.completa
+205,Soltero,otra Situación,Trabaja,Trabaja,No Posee
+206,Soltero,otra Situación,No Trabaja,No Trabaja,Sec.completo
+207,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+208,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+209,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+210,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+211,Soltero,otra Situación,Trabaja,Trabaja,No Posee
+212,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+214,Soltero,otra Situación,No Trabaja,Trabaja,No Posee
+215,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+216,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+217,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+218,Soltero,,No Trabaja,Trabaja,Sec.completo
+219,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+220,Soltero,otra Situación,Trabaja,Trabaja,No Posee
+221,Soltero,otra Situación,No Trabaja,No Trabaja,Prim.completa
+222,Soltero,otra Situación,No Trabaja,Trabaja,No Posee
+223,Soltero,otra Situación,Trabaja,No Trabaja,No Posee
+224,Casado,otra Situación,Trabaja,No Trabaja,No Posee
+225,Casado,otra Situación,Trabaja,No Trabaja,Prim.completa
+226,Soltero,otra Situación,No Trabaja,No Trabaja,No Posee
+227,Casado,otra Situación,Trabaja,Trabaja,Prim.completa
+229,Casado,otra Situación,Trabaja,No Trabaja,Prim.completa
+230,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+231,,,No Trabaja,,
+232,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+233,Casado,otra Situación,Trabaja,No Trabaja,No Posee
+234,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+235,Soltero,otra Situación,Trabaja,Trabaja,Prim.completa
+236,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+238,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+239,Soltero,otra Situación,No Trabaja,Trabaja,No Posee
+240,Soltero,otra Situación,Trabaja,Trabaja,Prim.completa
+241,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+242,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+243,Soltero,otra Situación,Trabaja,,
+244,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+245,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+246,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+247,Soltero,otra Situación,Trabaja,,
+248,Soltero,otra Situación,No Trabaja,No Trabaja,Univ. o Sup.completo
+249,Soltero,otra Situación,No Trabaja,Trabaja,No Posee
+250,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+251,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+253,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+254,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+255,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+256,Soltero,,No Trabaja,No Trabaja,No Posee
+257,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+258,Soltero,otra Situación,No Trabaja,No Trabaja,No Posee
+259,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+260,Soltero,otra Situación,No Trabaja,No Trabaja,Prim.completa
+262,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+263,Soltero,otra Situación,Trabaja,,
+265,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+266,Soltero,otra Situación,,,
+267,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+268,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+269,Soltero,,No Trabaja,Trabaja,Univ. o Sup.completo
+270,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+272,Soltero,otra Situación,No Trabaja,No Trabaja,No Posee
+273,Soltero,otra Situación,No Trabaja,,
+274,Soltero,otra Situación,Trabaja,Trabaja,Prim.completa
+275,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+277,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+278,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+280,Soltero,otra Situación,No Trabaja,Trabaja,No Posee
+281,Soltero,otra Situación,No Trabaja,No Trabaja,Sec.completo
+282,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+283,Soltero,otra Situación,Trabaja,No Trabaja,Prim.completa
+284,Soltero,otra Situación,Trabaja,No Trabaja,Prim.completa
+285,Soltero,otra Situación,Trabaja,No Trabaja,Prim.completa
+286,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+287,Soltero,otra Situación,Trabaja,No Trabaja,Sec.completo
+289,Soltero,otra Situación,No Trabaja,No Trabaja,Sec.completo
+290,Soltero,otra Situación,No Trabaja,No Trabaja,Prim.completa
+291,Casado,,No Trabaja,,Prim.completa
+292,Soltero,Res. Univ.,No Trabaja,Trabaja,Prim.completa
+293,Soltero,otra Situación,Trabaja,No Trabaja,Prim.completa
+294,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+295,Soltero,Res. Univ.,No Trabaja,Trabaja,Sec.completo
+296,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+297,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+298,Soltero,,No Trabaja,No Trabaja,Univ. o Sup.completo
+299,Soltero,otra Situación,Trabaja,,
+300,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+301,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+302,Soltero,Res. Univ.,No Trabaja,No Trabaja,No Posee
+303,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+304,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+305,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+306,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+307,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+308,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+309,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+310,Soltero,otra Situación,No Trabaja,,Univ. o Sup.completo
+311,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+312,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+313,Soltero,otra Situación,No Trabaja,Trabaja,No Posee
+314,Soltero,otra Situación,No Trabaja,No Trabaja,No Posee
+315,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+316,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+317,Soltero,otra Situación,No Trabaja,Trabaja,No Posee
+318,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+319,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+320,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+321,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+322,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+324,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+325,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+326,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+327,Soltero,otra Situación,Trabaja,Trabaja,Prim.completa
+328,Soltero,otra Situación,No Trabaja,No Trabaja,Sec.completo
+329,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+330,,otra Situación,Trabaja,,
+331,Soltero,otra Situación,No Trabaja,No Trabaja,No Posee
+332,Soltero,,No Trabaja,Trabaja,Prim.completa
+333,Soltero,otra Situación,No Trabaja,Trabaja,No Posee
+334,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+335,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+336,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+337,Soltero,otra Situación,Trabaja,,
+338,Soltero,otra Situación,No Trabaja,Trabaja,No Posee
+339,Soltero,,No Trabaja,Trabaja,Prim.completa
+340,Soltero,,No Trabaja,Trabaja,Univ. o Sup.completo
+341,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+342,Soltero,otra Situación,No Trabaja,Trabaja,No Posee
+343,Soltero,otra Situación,Trabaja,No Trabaja,No Posee
+344,Soltero,otra Situación,Trabaja,Trabaja,Prim.completa
+345,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+346,Soltero,otra Situación,No Trabaja,No Trabaja,Sec.completo
+347,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+348,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+349,Soltero,otra Situación,No Trabaja,Trabaja,No Posee
+351,Soltero,otra Situación,Trabaja,Trabaja,Prim.completa
+353,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+355,Soltero,otra Situación,Trabaja,Trabaja,No Posee
+356,Soltero,otra Situación,Trabaja,No Trabaja,Prim.completa
+357,Soltero,otra Situación,Trabaja,Trabaja,No Posee
+358,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+359,Soltero,otra Situación,No Trabaja,Trabaja,No Posee
+360,Soltero,otra Situación,No Trabaja,Trabaja,No Posee
+361,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+362,Soltero,otra Situación,No Trabaja,Trabaja,No Posee
+363,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+364,Casado,otra Situación,Trabaja,Trabaja,Sec.completo
+365,Casado,otra Situación,Trabaja,,Prim.completa
+366,Casado,otra Situación,Trabaja,,
+367,Soltero,otra Situación,Trabaja,Trabaja,Prim.completa
+368,Soltero,otra Situación,Trabaja,Trabaja,Prim.completa
+369,Divorciado,otra Situación,Trabaja,No Trabaja,Prim.completa
+370,Soltero,otra Situación,Trabaja,No Trabaja,Sec.completo
+371,Soltero,otra Situación,Trabaja,,Sec.completo
+373,Soltero,otra Situación,Trabaja,Trabaja,No Posee
+374,Soltero,otra Situación,No Trabaja,No Trabaja,No Posee
+376,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+378,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+380,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+381,Soltero,otra Situación,No Trabaja,No Trabaja,Prim.completa
+382,Soltero,otra Situación,Trabaja,No Trabaja,Prim.completa
+383,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+384,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+385,Soltero,otra Situación,No Trabaja,No Trabaja,Sec.completo
+386,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+387,Soltero,otra Situación,Trabaja,Trabaja,Prim.completa
+388,Casado,otra Situación,Trabaja,No Trabaja,Prim.completa
+389,Soltero,otra Situación,Trabaja,Trabaja,Univ. o Sup.completo
+390,Casado,otra Situación,Trabaja,Trabaja,Prim.completa
+391,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+392,Soltero,otra Situación,Trabaja,Trabaja,Prim.completa
+393,Soltero,otra Situación,Trabaja,,Prim.completa
+394,Soltero,Res. Univ.,No Trabaja,No Trabaja,Prim.completa
+395,Casado,otra Situación,Trabaja,No Trabaja,Prim.completa
+396,Casado,otra Situación,Trabaja,Trabaja,Univ. o Sup.completo
+397,Casado,otra Situación,Trabaja,Trabaja,Prim.completa
+398,Casado,otra Situación,Trabaja,,
+399,Soltero,otra Situación,No Trabaja,No Trabaja,Prim.completa
+400,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+401,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+402,Casado,otra Situación,Trabaja,Trabaja,Prim.completa
+404,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+405,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+406,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+407,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+408,Soltero,otra Situación,No Trabaja,No Trabaja,Prim.completa
+409,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+410,Soltero,otra Situación,No Trabaja,No Trabaja,No Posee
+411,Soltero,,No Trabaja,Trabaja,Sec.completo
+412,Soltero,otra Situación,No Trabaja,No Trabaja,Prim.completa
+414,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+415,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+416,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+417,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+418,Soltero,otra Situación,No Trabaja,No Trabaja,No Posee
+419,Soltero,otra Situación,No Trabaja,,
+420,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+421,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+422,Soltero,otra Situación,,,
+423,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+424,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+425,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+426,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+427,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+428,Soltero,otra Situación,No Trabaja,No Trabaja,Sec.completo
+429,Soltero,Res. Univ.,No Trabaja,Trabaja,Prim.completa
+430,Soltero,otra Situación,Trabaja,No Trabaja,Prim.completa
+431,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+432,Soltero,Res. Univ.,Trabaja,No Trabaja,No Posee
+433,Soltero,otra Situación,No Trabaja,No Trabaja,Prim.completa
+434,Soltero,Res. Univ.,No Trabaja,Trabaja,No Posee
+435,Soltero,Res. Univ.,No Trabaja,Trabaja,Prim.completa
+436,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+437,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+438,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+439,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+440,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+441,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+442,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+443,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+444,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+445,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+446,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+447,Soltero,otra Situación,No Trabaja,Trabaja,No Posee
+448,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+449,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+450,Soltero,otra Situación,No Trabaja,No Trabaja,No Posee
+451,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+452,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+453,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+454,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+455,Soltero,otra Situación,Trabaja,Trabaja,Prim.completa
+456,Soltero,otra Situación,Trabaja,,No Posee
+457,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+458,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+459,Soltero,otra Situación,No Trabaja,No Trabaja,Prim.completa
+460,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+461,Casado,otra Situación,Trabaja,Trabaja,Sec.completo
+462,Soltero,otra Situación,No Trabaja,No Trabaja,Prim.completa
+463,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+464,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+465,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+466,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+467,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+468,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+469,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+470,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+471,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+472,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+473,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+474,Soltero,otra Situación,No Trabaja,Trabaja,No Posee
+475,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+476,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+477,Soltero,otra Situación,No Trabaja,No Trabaja,Prim.completa
+478,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+479,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+480,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+481,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+482,Soltero,otra Situación,Trabaja,Trabaja,Prim.completa
+483,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+484,Casado,otra Situación,Trabaja,Trabaja,Sec.completo
+485,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+486,Casado,otra Situación,Trabaja,Trabaja,Sec.completo
+487,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+488,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+489,Soltero,otra Situación,Trabaja,Trabaja,Prim.completa
+490,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+491,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+492,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+493,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+494,Soltero,otra Situación,Trabaja,Trabaja,Prim.completa
+495,Soltero,otra Situación,No Trabaja,No Trabaja,Prim.completa
+496,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+497,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+498,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+499,Soltero,otra Situación,Trabaja,Trabaja,Prim.completa
+500,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+501,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+502,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+503,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+504,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+505,Soltero,otra Situación,No Trabaja,Trabaja,No Posee
+506,Soltero,otra Situación,Trabaja,Trabaja,Prim.completa
+507,Soltero,otra Situación,Trabaja,No Trabaja,Prim.completa
+508,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+509,Soltero,otra Situación,Trabaja,Trabaja,No Posee
+510,Soltero,otra Situación,Trabaja,,Prim.completa
+511,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+512,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+513,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+514,Soltero,otra Situación,No Trabaja,No Trabaja,Prim.completa
+515,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+516,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+517,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+518,Soltero,otra Situación,Trabaja,No Trabaja,Prim.completa
+519,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+520,Soltero,otra Situación,No Trabaja,No Trabaja,Prim.completa
+521,Soltero,otra Situación,Trabaja,Trabaja,No Posee
+522,Soltero,otra Situación,Trabaja,Trabaja,No Posee
+523,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+524,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+525,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+526,Casado,otra Situación,Trabaja,,
+527,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+528,Soltero,otra Situación,No Trabaja,No Trabaja,Sec.completo
+529,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+530,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+531,Soltero,otra Situación,No Trabaja,Trabaja,No Posee
+532,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+533,Soltero,otra Situación,Trabaja,No Trabaja,Prim.completa
+534,Soltero,otra Situación,Trabaja,No Trabaja,Sec.completo
+535,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+536,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+537,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+538,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+539,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+540,Soltero,otra Situación,Trabaja,No Trabaja,Univ. o Sup.completo
+541,Soltero,otra Situación,No Trabaja,No Trabaja,Sec.completo
+542,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+543,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+544,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+545,Soltero,otra Situación,No Trabaja,Trabaja,No Posee
+546,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+547,Soltero,otra Situación,Trabaja,Trabaja,No Posee
+548,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+549,Soltero,otra Situación,No Trabaja,No Trabaja,Prim.completa
+550,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+551,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+552,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+553,Soltero,otra Situación,Trabaja,,
+554,Casado,otra Situación,Trabaja,Trabaja,Prim.completa
+555,Casado,otra Situación,Trabaja,No Trabaja,Prim.completa
+556,Soltero,otra Situación,Trabaja,No Trabaja,Prim.completa
+557,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+558,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+559,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+560,Soltero,otra Situación,Trabaja,No Trabaja,Prim.completa
+561,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+562,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+563,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+564,Soltero,otra Situación,No Trabaja,No Trabaja,No Posee
+565,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+566,Soltero,otra Situación,Trabaja,,
+567,Soltero,otra Situación,Trabaja,Trabaja,Prim.completa
+568,Soltero,otra Situación,No Trabaja,No Trabaja,Univ. o Sup.completo
+569,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+570,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+571,Soltero,otra Situación,Trabaja,No Trabaja,Sec.completo
+572,Soltero,otra Situación,No Trabaja,No Trabaja,Sec.completo
+576,Soltero,Res. Univ.,,,
+579,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+581,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+582,Soltero,otra Situación,Trabaja,Trabaja,Univ. o Sup.completo
+583,Soltero,otra Situación,Trabaja,No Trabaja,Sec.completo
+584,Soltero,otra Situación,Trabaja,,
+585,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+587,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+588,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+589,Soltero,otra Situación,Trabaja,Trabaja,Univ. o Sup.completo
+590,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+591,Soltero,otra Situación,Trabaja,No Trabaja,Sec.completo
+592,Soltero,otra Situación,No Trabaja,,No Posee
+593,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+594,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+595,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+596,Soltero,otra Situación,No Trabaja,No Trabaja,Prim.completa
+597,Soltero,otra Situación,Trabaja,No Trabaja,Prim.completa
+598,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+599,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+601,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+602,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+603,Soltero,otra Situación,No Trabaja,,
+604,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+605,Soltero,Res. Univ.,No Trabaja,Trabaja,Univ. o Sup.completo
+606,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+607,Soltero,otra Situación,Trabaja,No Trabaja,No Posee
+608,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+609,Soltero,otra Situación,Trabaja,Trabaja,Prim.completa
+610,Soltero,otra Situación,Trabaja,Trabaja,Prim.completa
+611,Divorciado,otra Situación,No Trabaja,No Trabaja,Univ. o Sup.completo
+612,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+613,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+614,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+615,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+616,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+617,Soltero,otra Situación,No Trabaja,No Trabaja,No Posee
+618,Soltero,otra Situación,No Trabaja,No Trabaja,No Posee
+619,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+620,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+621,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+622,Soltero,otra Situación,No Trabaja,Trabaja,No Posee
+623,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+624,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+625,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+626,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+627,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+628,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+629,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+630,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+632,Soltero,otra Situación,Trabaja,Trabaja,Univ. o Sup.completo
+634,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+635,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+636,Soltero,otra Situación,Trabaja,No Trabaja,Sec.completo
+641,Soltero,otra Situación,No Trabaja,Trabaja,No Posee
+645,Soltero,otra Situación,Trabaja,Trabaja,Univ. o Sup.completo
+646,Soltero,otra Situación,Trabaja,Trabaja,No Posee
+647,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+648,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+649,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+650,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+655,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+656,Soltero,otra Situación,Trabaja,Trabaja,Prim.completa
+658,Soltero,otra Situación,,,
+659,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+660,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+661,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+662,Soltero,otra Situación,No Trabaja,No Trabaja,Univ. o Sup.completo
+663,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+664,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+665,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+666,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+667,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+668,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+669,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+670,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+671,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+672,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+673,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+674,Soltero,otra Situación,No Trabaja,Trabaja,No Posee
+675,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+678,Soltero,otra Situación,Trabaja,Trabaja,Univ. o Sup.completo
+679,Soltero,otra Situación,No Trabaja,No Trabaja,Sec.completo
+680,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+681,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+682,Soltero,otra Situación,No Trabaja,Trabaja,Univ. o Sup.completo
+683,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+684,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+689,,otra Situación,Trabaja,Trabaja,No Posee
+696,Soltero,otra Situación,Trabaja,Trabaja,Univ. o Sup.completo
+698,Soltero,otra Situación,,Trabaja,Prim.completa
+699,Soltero,otra Situación,,Trabaja,Sec.completo
+700,Soltero,otra Situación,Trabaja,Trabaja,Univ. o Sup.completo
+702,Soltero,otra Situación,,Trabaja,No Posee
+704,Soltero,otra Situación,,No Trabaja,Prim.completa
+706,Soltero,otra Situación,,Trabaja,Univ. o Sup.completo
+707,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+708,Soltero,otra Situación,,Trabaja,Univ. o Sup.completo
+709,Soltero,otra Situación,Trabaja,Trabaja,Prim.completa
+711,Soltero,otra Situación,,Trabaja,Prim.completa
+713,Soltero,otra Situación,,No Trabaja,Prim.completa
+719,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+721,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+722,Soltero,otra Situación,No Trabaja,Trabaja,Prim.completa
+723,Soltero,otra Situación,,Trabaja,Sec.completo
+724,Soltero,otra Situación,,Trabaja,Prim.completa
+725,Soltero,otra Situación,,No Trabaja,Sec.completo
+726,Soltero,otra Situación,,Trabaja,Univ. o Sup.completo
+727,Soltero,otra Situación,,Trabaja,Univ. o Sup.completo
+728,Soltero,otra Situación,,Trabaja,Prim.completa
+730,Soltero,otra Situación,Trabaja,,Prim.completa
+732,Soltero,otra Situación,Trabaja,Trabaja,Univ. o Sup.completo
+736,Soltero,otra Situación,,Trabaja,Univ. o Sup.completo
+740,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+743,Soltero,otra Situación,,Trabaja,Sec.completo
+752,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+754,Soltero,otra Situación,,Trabaja,Sec.completo
+762,Soltero,otra Situación,Trabaja,Trabaja,Univ. o Sup.completo
+765,Soltero,otra Situación,,No Trabaja,No Posee
+766,Soltero,otra Situación,,Trabaja,Sec.completo
+767,Soltero,otra Situación,Trabaja,Trabaja,Prim.completa
+768,Soltero,otra Situación,,Trabaja,Sec.completo
+769,Soltero,otra Situación,,Trabaja,Sec.completo
+770,Soltero,otra Situación,,No Trabaja,No Posee
+776,Soltero,otra Situación,,Trabaja,Univ. o Sup.completo
+777,Soltero,otra Situación,Trabaja,No Trabaja,Prim.completa
+780,Soltero,otra Situación,,No Trabaja,Sec.completo
+781,Soltero,otra Situación,,Trabaja,Prim.completa
+782,Soltero,otra Situación,Trabaja,Trabaja,Univ. o Sup.completo
+784,Soltero,otra Situación,,Trabaja,Prim.completa
+785,Soltero,otra Situación,,Trabaja,Sec.completo
+786,Soltero,otra Situación,Trabaja,Trabaja,Prim.completa
+788,Soltero,otra Situación,,Trabaja,Sec.completo
+789,Soltero,otra Situación,Trabaja,No Trabaja,Sec.completo
+790,Soltero,otra Situación,,Trabaja,Sec.completo
+791,Soltero,Res. Univ.,,Trabaja,Prim.completa
+794,Soltero,otra Situación,,Busca trabajo,Sec.completo
+795,Soltero,otra Situación,,Trabaja,Univ. o Sup.completo
+797,Soltero,otra Situación,Trabaja,Trabaja,No Posee
+798,Soltero,otra Situación,,Trabaja,Sec.completo
+799,Soltero,otra Situación,,Trabaja,Sec.completo
+801,Soltero,otra Situación,,Trabaja,Sec.completo
+803,Soltero,otra Situación,Trabaja,No Trabaja,Prim.completa
+804,Soltero,otra Situación,,Trabaja,Sec.completo
+806,Soltero,otra Situación,,Trabaja,Sec.completo
+815,Soltero,otra Situación,,Trabaja,Sec.completo
+816,Soltero,otra Situación,Trabaja,No Trabaja,No Posee
+817,Soltero,otra Situación,,Trabaja,Sec.completo
+818,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+819,Soltero,otra Situación,,Trabaja,Univ. o Sup.completo
+821,Soltero,otra Situación,Trabaja,No Trabaja,No Posee
+822,Soltero,otra Situación,,Trabaja,Sec.completo
+823,Soltero,otra Situación,,Trabaja,Prim.completa
+824,Soltero,otra Situación,,Trabaja,Prim.completa
+825,Soltero,otra Situación,,Trabaja,Sec.completo
+827,Soltero,otra Situación,,Trabaja,Sec.completo
+828,Soltero,otra Situación,,Trabaja,Prim.completa
+829,Soltero,otra Situación,,Trabaja,Sec.completo
+830,Soltero,otra Situación,,Trabaja,Sec.completo
+832,Soltero,otra Situación,Trabaja,Trabaja,Sec.completo
+833,Soltero,otra Situación,,Trabaja,Sec.completo
+836,Soltero,otra Situación,Trabaja,Trabaja,Univ. o Sup.completo
+837,Casado,otra Situación,Trabaja,Trabaja,Sec.completo
+838,Soltero,otra Situación,,,Prim.completa
+839,Soltero,otra Situación,,No Trabaja,Prim.completa
+841,Soltero,otra Situación,No Trabaja,Trabaja,Sec.completo
+842,Soltero,otra Situación,,Trabaja,Prim.completa
+843,Soltero,otra Situación,Trabaja,,Prim.completa
+844,Soltero,otra Situación,,Trabaja,Sec.completo
+846,Soltero,otra Situación,,Trabaja,Univ. o Sup.completo
+849,Soltero,otra Situación,,Trabaja,Sec.completo
+850,Soltero,otra Situación,,Trabaja,Univ. o Sup.completo
+851,Soltero,Independiente,Trabaja,Trabaja,Sec.completo
+852,Soltero,otra Situación,,,Sec.completo
+853,Soltero,otra Situación,Trabaja,Trabaja,Prim.completa
+854,Soltero,otra Situación,,Trabaja,Prim.completa
+855,Soltero,Res. Univ.,,Trabaja,Univ. o Sup.completo
+856,Soltero,otra Situación,,Trabaja,Sec.completo
+860,Soltero,otra Situación,,,No Posee
+861,Soltero,otra Situación,,,No Posee
+862,Soltero,otra Situación,,,No Posee
+863,Casado,otra Situación,,,No Posee
+864,Soltero,otra Situación,,,No Posee
+867,Soltero,con Flia,,Trabaja,Sec.completo
+870,Soltero,con Flia,,Desconoce,Sec.completo
+871,Soltero,Res. Univ.,,Desconoce,Sec.completo
+872,Soltero,con Flia,Trabaja,Desconoce,Sec.completo
+874,Soltero,Res. Univ.,,Desconoce,No Posee
+876,Soltero,otra Situación,,Desconoce,Sec.completo
+878,Soltero,con Flia,,Desconoce,Sec.completo
+880,Soltero,con Flia,Trabaja,Trabaja,Univ. o Sup.completo
+881,Soltero,otra Situación,Trabaja,Desconoce,Sec.completo
+884,Soltero,con Flia,Trabaja,Desconoce,Univ. o Sup.completo
+886,Soltero,con Flia,No Trabaja,Desconoce,No Posee
+888,Soltero,con Flia,,,No Posee
+890,Soltero,con Flia,,,No Posee
+891,Soltero,con Flia,,,No Posee
+894,Soltero,con Flia,,,No Posee
+895,Soltero,con Flia,,Trabaja,Prim.completa
+899,Soltero,con Flia,,,No Posee
+900,Soltero,con Flia,Trabaja,,No Posee
+905,Soltero,con Flia,,,No Posee
+907,Soltero,Independiente,,No Trabaja,No Posee
+909,Soltero,Res. Univ.,Trabaja,Trabaja,Prim.completa
+911,Soltero,Res. Univ.,,No Trabaja,Prim.completa
+912,Soltero,con Flia,,,No Posee
+913,Soltero,Res. Univ.,Trabaja,,No Posee
+914,Soltero,otra Situación,,,No Posee
+916,Soltero,con Flia,,,Prim.completa
+918,Soltero,con Flia,,,No Posee
+919,Soltero,Res. Univ.,,Trabaja,No Posee
+920,Soltero,con Flia,,,No Posee
+921,Soltero,con Flia,,,No Posee
+924,Soltero,con Flia,,,Prim.completa
+926,Soltero,con Flia,,,No Posee
+930,Soltero,con Flia,,Trabaja,Prim.completa
+931,Soltero,Res. Univ.,,Trabaja,Univ. o Sup.completo
+933,Casado,con Flia,,,Prim.completa
+934,Soltero,con Flia,,,No Posee
+938,Soltero,con Flia,,,Sec.completo
+940,Soltero,con Flia,,Trabaja,Prim.completa
+941,Soltero,con Flia,,,Prim.completa
+943,Soltero,Res. Univ.,,Busca trabajo,Sec.completo
+945,Soltero,con Flia,Trabaja,,No Posee
+947,Soltero,con Flia,Trabaja,,Prim.completa
+948,Soltero,con Flia,Trabaja,,Prim.completa
+949,Soltero,Independiente,Trabaja,,No Posee
+950,Soltero,con Flia,Trabaja,,No Posee
+951,Soltero,con Flia,Trabaja,Trabaja,No Posee
+952,Soltero,Res. Univ.,Trabaja,No Trabaja,Univ. o Sup.completo
+955,Soltero,Res. Univ.,,Trabaja,Univ. o Sup.completo
+958,Soltero,Independiente,,Trabaja,Sec.completo
+959,Soltero,con Flia,,,No Posee
+961,Soltero,con Flia,Trabaja,Trabaja,Prim.completa
+962,Soltero,otra Situación,Trabaja,,No Posee
+963,Soltero,con Flia,No Trabaja,Trabaja,Univ. o Sup.completo
+964,Soltero,Independiente,Trabaja,,No Posee
+977,Soltero,con Flia,,,No Posee
+978,Soltero,con Flia,,,No Posee
+979,Soltero,con Flia,,Trabaja,Prim.completa
+984,,,,Desconoce,Univ. o Sup.completo
+986,Soltero,con Flia,,,No Posee
+989,Soltero,con Flia,,Trabaja,Prim.completa
+990,Soltero,otra Situación,,Trabaja,Univ. o Sup.completo
+991,,,,Trabaja,Univ. o Sup.completo
+992,,,Trabaja,Trabaja,Sec.completo
+993,Soltero,con Flia,,,No Posee
+994,Soltero,con Flia,,,No Posee
+995,Soltero,con Flia,,,No Posee
+998,Soltero,con Flia,,,No Posee
+999,Soltero,con Flia,Trabaja,,No Posee
+1000,Soltero,con Flia,,,No Posee
+1001,Soltero,con Flia,,,No Posee
+1003,Soltero,con Flia,,,No Posee
+1004,Soltero,con Flia,Trabaja,,No Posee
+1006,Soltero,con Flia,,,No Posee
+1008,Soltero,con Flia,,,No Posee
+1009,Soltero,con Flia,,,No Posee
+1012,Soltero,Independiente,,Trabaja,Sec.completo
+1014,Soltero,con Flia,,,No Posee
+1015,Soltero,,,Trabaja,No Posee
+1018,Soltero,con Flia,,Trabaja,Sec.completo
+1019,Soltero,con Flia,Trabaja,Trabaja,No Posee
+1020,Soltero,otra Situación,Trabaja,,No Posee
+1021,Soltero,con Flia,,,No Posee
+1022,Soltero,Independiente,,Trabaja,Sec.completo
+1023,Soltero,con Flia,,Trabaja,Prim.completa
+1024,Soltero,con Flia,,Trabaja,No Posee
+1025,Soltero,con Flia,,Trabaja,Sec.completo
+1026,Soltero,con Flia,,Trabaja,Prim.completa
+1027,Soltero,con Flia,,Trabaja,Prim.completa
+1028,Soltero,con Flia,,Trabaja,Prim.completa
+1029,Soltero,con Flia,Trabaja,Trabaja,Sec.completo
+1031,Soltero,Independiente,,Desconoce,No Posee
+1032,Soltero,otra Situación,,Trabaja,Prim.completa
+1033,Soltero,con Flia,,Trabaja,Sec.completo
+1034,Soltero,con Flia,,Trabaja,Prim.completa
+1035,Soltero,con Flia,,Trabaja,Prim.completa
+1036,Soltero,Independiente,No Trabaja,Trabaja,Prim.completa
+1037,Soltero,con Flia,,Trabaja,Univ. o Sup.completo
+1038,Soltero,con Flia,,Trabaja,Prim.completa
+1039,Soltero,otra Situación,,Trabaja,No Posee
+1040,Soltero,con Flia,,Trabaja,Univ. o Sup.completo
+1041,Soltero,Independiente,,Desconoce,No Posee
+1042,Soltero,con Flia,,Trabaja,Univ. o Sup.completo
+1043,Soltero,con Flia,,Trabaja,Sec.completo
+1044,Soltero,Independiente,No Trabaja,,No Posee
+1045,Soltero,Independiente,,Trabaja,Sec.completo
+1047,Soltero,con Flia,,Trabaja,Sec.completo
+1048,Soltero,otra Situación,,Trabaja,Sec.completo
+1049,Soltero,otra Situación,,Trabaja,Sec.completo
+1050,Soltero,otra Situación,Trabaja,,No Posee
+1051,Soltero,con Flia,Trabaja,Trabaja,Sec.completo
+1052,Soltero,Independiente,,Trabaja,Univ. o Sup.completo
+1053,Soltero,con Flia,No Trabaja,Trabaja,Prim.completa
+1054,Soltero,otra Situación,,,No Posee
+1055,Soltero,con Flia,No Trabaja,,No Posee
+1060,Soltero,con Flia,,Trabaja,No Posee
+1063,,Independiente,,Trabaja,Prim.completa
+1064,Soltero,otra Situación,,Trabaja,Prim.completa
+1065,Soltero,Independiente,Trabaja,Trabaja,Univ. o Sup.completo
+1066,Soltero,otra Situación,,Trabaja,Sec.completo
